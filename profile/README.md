@@ -8,4 +8,3 @@ with an [approval process](https://orienteering.sport/wp-content/uploads/2026/03
 and a [list of approved systems.](https://orienteering.sport/wp-content/uploads/2026/04/iof-approved-electronic-punching-systems-april-2026.pdf)
 
 April 2026
-Henning Spjelkavik
