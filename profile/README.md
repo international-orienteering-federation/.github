@@ -7,6 +7,6 @@ We maintain the requirements for [Electronic Punching in orienteering](https://o
 with an [approval process](https://orienteering.sport/wp-content/uploads/2026/03/iof-punching-system-approval-v-2018-04-07-3.pdf) 
 and a [list of approved systems.](https://orienteering.sport/wp-content/uploads/2026/04/iof-approved-electronic-punching-systems-april-2026.pdf)
 
-Our most important documents are also hosted [here on Github](https://github.com/international-orienteering-federation/itc-official-documents-copy).
+Our most [important documents are also hosted here on Github](https://github.com/international-orienteering-federation/itc-official-documents-copy).
 
 April 2026
